@@ -21,13 +21,13 @@ To view the website locally, follow these steps:
 1. Clone this repository to your local machine using the command:
 
    ```bash
-   git clone https://github.com/yourusername/deepshikha-patel-portfolio.git
+   git clone https://github.com/deepshikhapatel/deepshikhapatel.github.io.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd deepshikha-patel-portfolio
+   cd deepshikhapatel.github.io
    ```
 
 3. Open the `index.html` file in your preferred web browser.
@@ -39,7 +39,7 @@ The website can be deployed using GitHub Pages. Follow these steps to deploy:
 1. Go to the repository settings.
 2. Scroll down to the "GitHub Pages" section.
 3. Select the branch (usually `main` or `master`) to deploy from.
-4. Save the settings, and the website will be live at `https://yourusername.github.io/deepshikha-patel-portfolio/`.
+4. Save the settings, and the website will be live at `https://deepshikhapatel.github.io`.
 
 ## Technologies Used
 
